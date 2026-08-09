@@ -1,8 +1,8 @@
-import Navbar from "./components/Navbar";
+import Navbar from "./Components/Navbar";
 
-import HomePage from "./pages/HomePage";
-import SignUpPage from "./pages/SignUpPage";
-import LoginPage from "./pages/LoginPage";
+import HomePage from "./Pages/HomePage";
+import SignupPage from "./Pages/SignupPage";
+import LoginPage from "./Pages/LoginPage";
 import SettingsPage from "./Pages/SettingPage";
 import ProfilePage from "./Pages/ProfilePage";
 
